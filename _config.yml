@@ -1,7 +1,7 @@
 # Basic
 title: Vikram Boddupalli
 subtitle: Vick
-avatarTitle: arnoldzl
+avatarTitle: Vikram
 avatarDesc: Strive to Learn
 welcome_message: Welcome to my site. 
 description: Java EE | Big data | Machine Learning 
@@ -30,7 +30,7 @@ blog_button:
 nav:
     - {title: Tags, description: Tags, url: '/tags'}
     - {title: Archive, description: All Articles, url: '/archive'}
-    - {title: Resume, description: click to view, url: '/assets/Zinuo_Resume.pdf'}
+    - {title: Resume, description: click to view, url: '/assets/VikramBoddupalli.pdf'}
     - {title: Projects, description: My Projects, url: '/project'}
     - {title: About, description: About, url: '/about'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
