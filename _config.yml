@@ -1,13 +1,13 @@
 # Basic
-title: Zinuo Li
-subtitle: 李 子诺
+title: Vikram Boddupalli
+subtitle: Vick
 avatarTitle: arnoldzl
 avatarDesc: Strive to Learn
 welcome_message: Welcome to my site. 
 description: Java EE | Big data | Machine Learning 
-creator: <a href="http://arnoldzl.github.io">@zinuoli</a>
+creator: <a href="https://vikramboddupalli.github.io/">@VikramBoddupalli</a>
 
-url: "http://arnoldzl.github.io"
+url: "https://vikramboddupalli.github.io/"
 
 permalink: /:year/:month/:title/
 
@@ -42,17 +42,16 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: arnoldzl
+    disqus: VikramBoddupalli
     # duoshuo: 
     
 # Social
 social:
-    github: arnoldzl
-    twitter: Zinuolee
-    mail: zli156@hawk.iit.edu
-    facebook: arno.lee.56
-    linkedin: arnoldzl
-    insta: arrrrrno
+    github: VikramBoddupalli
+    mail: vikramb1476@gmail.com
+    facebook: vikram903010
+    linkedin: vikram-b-610662139
+    insta: vikram_boddupalli
 
 # Google Analytics
 ga:
