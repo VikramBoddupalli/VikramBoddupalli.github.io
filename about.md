@@ -5,7 +5,7 @@ title: About me
 
 Welcome to my site!
 
-My name is Zinuo Li, also you can call me arnold.
+My name is Vikram Boddupalli, also you can call me Vick.
 
 Currently I am a software engineer working in [`Informatica LLC`], living in **Chicago**.
 
