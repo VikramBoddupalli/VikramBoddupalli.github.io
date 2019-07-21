@@ -1,0 +1,60 @@
+# Basic
+title: Zinuo Li
+subtitle: 李 子诺
+avatarTitle: arnoldzl
+avatarDesc: Strive to Learn
+welcome_message: Welcome to my site. 
+description: Java EE | Big data | Machine Learning 
+creator: <a href="http://arnoldzl.github.io">@zinuoli</a>
+
+url: "http://arnoldzl.github.io"
+
+permalink: /:year/:month/:title/
+
+# Format
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color:
+
+# The blog button should not be removed.
+blog_button:
+    title: Blog
+    description: Visit my blog
+
+# Navigation buttons in the front page.
+nav:
+    - {title: Tags, description: Tags, url: '/tags'}
+    - {title: Archive, description: All Articles, url: '/archive'}
+    - {title: Resume, description: click to view, url: '/assets/Zinuo_Resume.pdf'}
+    - {title: Projects, description: My Projects, url: '/project'}
+    - {title: About, description: About, url: '/about'}
+    # - {title: Another Button, description: A button, url: 'http://example.com'}
+
+# Pagination
+gems: [jekyll-paginate]
+paginate: 10
+paginate_path: "page/:num/"
+
+# Comment
+comment:
+    disqus: arnoldzl
+    # duoshuo: 
+    
+# Social
+social:
+    github: arnoldzl
+    twitter: Zinuolee
+    mail: zli156@hawk.iit.edu
+    facebook: arno.lee.56
+    linkedin: arnoldzl
+    insta: arrrrrno
+
+# Google Analytics
+ga:
+    # id: your_ga_id
+    # host: your_host
