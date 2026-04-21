@@ -85,23 +85,6 @@ Creating **end-to-end automation pipelines** that reduce manual work and increas
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=VikramBoddupalli&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VikramBoddupalli&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" height="165" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikramBoddupalli&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-
-</div>
-
----
-
 ## 🏆 Highlights
 
 ```python
