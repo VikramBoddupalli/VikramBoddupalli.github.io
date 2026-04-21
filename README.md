@@ -5,9 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer;Agents+Automation+Engineer;Building+Intelligent+AI+Agent+Systems;Automating+Workflows+with+AI+Agents)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-VikramBoddupalli-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VikramBoddupalli)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikramboddupalli)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/VikramBoddupalli)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikram.boddupalli@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikram-boddupalli-610662139/)
 
 </div>
 
