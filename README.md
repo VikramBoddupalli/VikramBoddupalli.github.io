@@ -29,7 +29,7 @@ I'm a **Senior Software Engineer** and **Agents Automation Engineer** specializi
 <div align="center">
 
 ### 🤖 Agents Automation Engineering
-Building **intelligent automation systems** powered by AI agents that handle complex workflows, make autonomous decisions, and integrate with existing business tools. Expert in LangChain, AutoGen, and custom agent frameworks.
+Building **intelligent automation systems** powered by AI agents that handle complex workflows, make autonomous decisions, and integrate with existing business tools.
 
 ### 🏗️ Software Engineering
 Developing **robust, scalable software solutions** with clean architecture and best practices. Experience in full-stack development, microservices, and cloud-native applications.
